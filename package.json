@@ -1,0 +1,18 @@
+{
+  "name": "status-bot",
+  "version": "1.0.0",
+  "description": "This bot will help you monitor your Bot's Status.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "author": "Sujal Goel",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "nodemon": "^2.0.7",
+    "quick.db": "^7.1.3",
+    "quickonline": "^1.1.3"
+  }
+}
