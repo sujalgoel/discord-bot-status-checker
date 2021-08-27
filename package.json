@@ -8,10 +8,12 @@
     "test": "nodemon index.js"
   },
   "author": "Sujal Goel",
-  "license": "MIT",
+	"license": "CC BY-NC-ND 4.0",
   "dependencies": {
-    "discord.js": "^12.5.1",
-    "nodemon": "^2.0.7",
+    "discord.js": "^12.5.3",
     "quick.db": "^7.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
